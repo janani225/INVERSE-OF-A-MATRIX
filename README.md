@@ -22,7 +22,7 @@ print(inverse)
 ```
 
 ## Output:
-(/![Screenshot from 2022-09-20 10-25-42](https://user-images.githubusercontent.com/113497333/191170905-f2298853-f62e-4b75-ba8a-a62b31d2facd.png)
+![Screenshot from 2022-09-20 10-25-42](https://user-images.githubusercontent.com/113497333/191170905-f2298853-f62e-4b75-ba8a-a62b31d2facd.png)
 
 
 ## Result:
